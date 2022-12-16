@@ -1,0 +1,52 @@
+wrapper {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    margin-left: 650px;
+    margin-top: 50px;
+}
+
+
+.input {
+    margin-bottom: 15px;
+}
+
+.btn {
+    align-items: center;
+    margin-left: 45px;
+}
+
+.result{
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.result h5{
+    color: rgb(35, 45, 41);
+    margin-bottom: 10px;
+}
+
+#myList
+    li {
+        /* display inline */
+        display:inline;
+        /* remove list-symbols */
+        list-style-type : none;
+        /* set margin-right for each item */
+        margin-right:15px;
+        /* border */
+        border:solid 1px #114477;
+        /* set padding for each item */
+        padding:5px;
+        /* background-color for each item */
+        background-color:#336699;
+        /* text-color */
+        color:#ffffff;
+
+        
+    
+}
+
+ul{
+    margin-top: 38px;
+        margin-left: -158px;
+
+}
